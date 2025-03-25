@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Muthu 👋  
 
-<!--
-**Muthu784/Muthu784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | MERN Stack | Passionate about Learning  
 
-Here are some ideas to get you started:
+I am a **Full-Stack Developer** specializing in **MERN Stack** (MongoDB, Express.js, React, Node.js).  
+I am always eager to **learn new languages and technologies** to enhance my development skills.  
+Currently, I am working on some projects to as part of my journey in the MERN stack.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack  
+💻 **Frontend:** HTML, CSS, JavaScript, React, Redux  
+🛠 **Backend:** Node.js, Express.js  
+🗄 **Database:** MongoDB, Firebase  
+🎨 **Other Tools:** Git, GitHub, Postman, Vercel  
+
+
+## ⚡ Fun Fact  
+💡 I love **exploring new technologies**, contributing to **open-source projects**, and working on **exciting full-stack applications**!  
+
+---  
+
+⭐️ Feel free to explore my repositories and connect with me!  
+
