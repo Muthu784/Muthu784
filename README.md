@@ -7,9 +7,9 @@ I am always eager to **learn new languages and technologies** to enhance my deve
 Currently, I am working on some projects to as part of my journey in the MERN stack.  
 
 ## 🚀 Tech Stack  
-💻 **Frontend:** HTML, CSS, JavaScript, React, Redux  
+💻 **Frontend:** HTML, CSS, JavaScript, React, Redux, TypeScript, NextJs
 🛠 **Backend:** Node.js, Express.js  
-🗄 **Database:** MongoDB, Firebase  
+🗄 **Database:** MongoDB, Firebase, PostgreSQL
 🎨 **Other Tools:** Git, GitHub, Postman, Vercel  
 
 
