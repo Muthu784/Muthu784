@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Muthu Pandi Banner](https://www.canva.com/design/DAGzs50_qUw/yy05mj1tAh5CJmQj9yzJ9A/edit?utm_content=DAGzs50_qUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <!-- You can replace with your own banner -->
+![Muthu Pandi Banner](https://www.canva.com/design/DAGzs50_qUw?ui=eyJLIjp7IkEiOiIwMWNlYmU3NC02YTYzLTRhNTMtYWRjYS1jM2VmNDI3ZjUyMTIifX0) <!-- You can replace with your own banner -->
 
 <h1 align="center">Hi, I'm Muthu 👋</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack | Passionate Learner</h3>
